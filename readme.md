@@ -36,5 +36,4 @@
   - 테마점수 : 각 테마별 해당구의 점수입니다.
   - 행정구점수 : 각 행정구의 테마점수를 `총 합산한 점수`입니다.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/110000734/231938280-9e834f97-dd77-48c9-bea3-c35483e2a2c5.JPG">
-
+<img src="https://user-images.githubusercontent.com/110000734/231953302-fb71dd5b-f2b7-452e-b2ec-ca0a9ccdd985.JPG">
