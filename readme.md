@@ -30,4 +30,6 @@
 
 
 - 행정구별 업종별 순위부여 : 반려동물 수를 시설 수로 나누어 행정구별 업종별 할당량을 계산하였고 설정한 테마에 따른 점수를 위해 순위를 부여하였습니다.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110000734/231938280-9e834f97-dd77-48c9-bea3-c35483e2a2c5.JPG">
 
