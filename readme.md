@@ -75,6 +75,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/110000734/232402799-805d9d5a-1761-49d5-bac7-b6c7dc7a66b3.png">
   
-
+  - 전체 점수와 마리수에 마우스를 올리시면 순위를 그래프로 확인 할 수 있습니다.
+  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110000734/232419648-b62db7a1-e224-4b06-82f9-34fb1f22814a.jpg">
 
 
